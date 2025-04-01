@@ -1,4 +1,1 @@
-fastapi
-uvicorn
-boto3
-python-multipart
+pyramid==2.0
